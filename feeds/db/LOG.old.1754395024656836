@@ -1,0 +1,114 @@
+2025/08/05-17:26:37.766594 25715 RocksDB version: 10.1.0
+2025/08/05-17:26:37.766756 25715 Git sha 68b2d941be2d273067aeb7e14ccd090d1512c426
+2025/08/05-17:26:37.766765 25715 Compile date 2025-08-04 21:04:06
+2025/08/05-17:26:37.766771 25715 DB SUMMARY
+2025/08/05-17:26:37.766778 25715 Host name (Env):  rajendra-Lenovo-ideapad-330-15IKB
+2025/08/05-17:26:37.766782 25715 DB Session ID:  91W07UAOJLJ1L7XT1BAO
+2025/08/05-17:26:37.767227 25715 CURRENT file:  CURRENT
+2025/08/05-17:26:37.767235 25715 IDENTITY file:  IDENTITY
+2025/08/05-17:26:37.767786 25715 MANIFEST file:  MANIFEST-000036 size: 406 Bytes
+2025/08/05-17:26:37.767806 25715 SST files in /media/rajendra/HDD5/PROJECTS_2.0/Hyperswarm_Whale_Monitoring_System/feeds/db dir, Total Num: 2, files: 000008.sst 000029.sst 
+2025/08/05-17:26:37.767815 25715 Write Ahead Log file in /media/rajendra/HDD5/PROJECTS_2.0/Hyperswarm_Whale_Monitoring_System/feeds/db: 000035.log size: 0 ; 
+2025/08/05-17:26:37.767822 25715                         Options.error_if_exists: 0
+2025/08/05-17:26:37.767825 25715                       Options.create_if_missing: 1
+2025/08/05-17:26:37.767829 25715                         Options.paranoid_checks: 1
+2025/08/05-17:26:37.767832 25715             Options.flush_verify_memtable_count: 1
+2025/08/05-17:26:37.767835 25715          Options.compaction_verify_record_count: 1
+2025/08/05-17:26:37.767839 25715                               Options.track_and_verify_wals_in_manifest: 0
+2025/08/05-17:26:37.767842 25715                               Options.track_and_verify_wals: 0
+2025/08/05-17:26:37.767846 25715        Options.verify_sst_unique_id_in_manifest: 1
+2025/08/05-17:26:37.767850 25715                                     Options.env: 0x7410a40148e0
+2025/08/05-17:26:37.767854 25715                                      Options.fs: RocksFS
+2025/08/05-17:26:37.767858 25715                                Options.info_log: 0x7410a400e830
+2025/08/05-17:26:37.767861 25715                Options.max_file_opening_threads: 16
+2025/08/05-17:26:37.767865 25715                              Options.statistics: (nil)
+2025/08/05-17:26:37.767869 25715                               Options.use_fsync: 0
+2025/08/05-17:26:37.767872 25715                       Options.max_log_file_size: 0
+2025/08/05-17:26:37.767876 25715                  Options.max_manifest_file_size: 1073741824
+2025/08/05-17:26:37.767880 25715                   Options.log_file_time_to_roll: 0
+2025/08/05-17:26:37.767884 25715                       Options.keep_log_file_num: 1000
+2025/08/05-17:26:37.767887 25715                    Options.recycle_log_file_num: 0
+2025/08/05-17:26:37.767891 25715                         Options.allow_fallocate: 1
+2025/08/05-17:26:37.767894 25715                        Options.allow_mmap_reads: 0
+2025/08/05-17:26:37.767898 25715                       Options.allow_mmap_writes: 0
+2025/08/05-17:26:37.767901 25715                        Options.use_direct_reads: 0
+2025/08/05-17:26:37.767905 25715                        Options.use_direct_io_for_flush_and_compaction: 0
+2025/08/05-17:26:37.767908 25715          Options.create_missing_column_families: 1
+2025/08/05-17:26:37.767911 25715                              Options.db_log_dir: 
+2025/08/05-17:26:37.767915 25715                                 Options.wal_dir: 
+2025/08/05-17:26:37.767919 25715                Options.table_cache_numshardbits: 6
+2025/08/05-17:26:37.767922 25715                         Options.WAL_ttl_seconds: 0
+2025/08/05-17:26:37.767926 25715                       Options.WAL_size_limit_MB: 0
+2025/08/05-17:26:37.767929 25715                        Options.max_write_batch_group_size_bytes: 1048576
+2025/08/05-17:26:37.767933 25715             Options.manifest_preallocation_size: 4194304
+2025/08/05-17:26:37.767936 25715                     Options.is_fd_close_on_exec: 1
+2025/08/05-17:26:37.767940 25715                   Options.advise_random_on_open: 1
+2025/08/05-17:26:37.767943 25715                    Options.db_write_buffer_size: 0
+2025/08/05-17:26:37.767947 25715                    Options.write_buffer_manager: 0x7410a400e6c0
+2025/08/05-17:26:37.767950 25715                      Options.use_adaptive_mutex: 0
+2025/08/05-17:26:37.767967 25715                            Options.rate_limiter: (nil)
+2025/08/05-17:26:37.767974 25715     Options.sst_file_manager.rate_bytes_per_sec: 0
+2025/08/05-17:26:37.767978 25715                       Options.wal_recovery_mode: 2
+2025/08/05-17:26:37.767981 25715                  Options.enable_thread_tracking: 0
+2025/08/05-17:26:37.767985 25715                  Options.enable_pipelined_write: 0
+2025/08/05-17:26:37.767988 25715                  Options.unordered_write: 0
+2025/08/05-17:26:37.767992 25715         Options.allow_concurrent_memtable_write: 1
+2025/08/05-17:26:37.767995 25715      Options.enable_write_thread_adaptive_yield: 1
+2025/08/05-17:26:37.767999 25715             Options.write_thread_max_yield_usec: 100
+2025/08/05-17:26:37.768002 25715            Options.write_thread_slow_yield_usec: 3
+2025/08/05-17:26:37.768006 25715                               Options.row_cache: None
+2025/08/05-17:26:37.768009 25715                              Options.wal_filter: None
+2025/08/05-17:26:37.768013 25715             Options.avoid_flush_during_recovery: 0
+2025/08/05-17:26:37.768017 25715             Options.allow_ingest_behind: 0
+2025/08/05-17:26:37.768020 25715             Options.two_write_queues: 0
+2025/08/05-17:26:37.768024 25715             Options.manual_wal_flush: 0
+2025/08/05-17:26:37.768027 25715             Options.wal_compression: 0
+2025/08/05-17:26:37.768031 25715             Options.background_close_inactive_wals: 0
+2025/08/05-17:26:37.768034 25715             Options.atomic_flush: 0
+2025/08/05-17:26:37.768040 25715             Options.avoid_unnecessary_blocking_io: 0
+2025/08/05-17:26:37.768043 25715             Options.prefix_seek_opt_in_only: 0
+2025/08/05-17:26:37.768047 25715                 Options.persist_stats_to_disk: 0
+2025/08/05-17:26:37.768054 25715                 Options.write_dbid_to_manifest: 1
+2025/08/05-17:26:37.768058 25715                 Options.write_identity_file: 1
+2025/08/05-17:26:37.768062 25715                 Options.log_readahead_size: 0
+2025/08/05-17:26:37.768065 25715                 Options.file_checksum_gen_factory: Unknown
+2025/08/05-17:26:37.768069 25715                 Options.best_efforts_recovery: 0
+2025/08/05-17:26:37.768073 25715                Options.max_bgerror_resume_count: 2147483647
+2025/08/05-17:26:37.768076 25715            Options.bgerror_resume_retry_interval: 1000000
+2025/08/05-17:26:37.768080 25715             Options.allow_data_in_errors: 0
+2025/08/05-17:26:37.768083 25715             Options.db_host_id: __hostname__
+2025/08/05-17:26:37.768087 25715             Options.enforce_single_del_contracts: true
+2025/08/05-17:26:37.768091 25715             Options.metadata_write_temperature: kUnknown
+2025/08/05-17:26:37.768095 25715             Options.wal_write_temperature: kUnknown
+2025/08/05-17:26:37.768100 25715             Options.max_background_jobs: 6
+2025/08/05-17:26:37.768104 25715             Options.max_background_compactions: -1
+2025/08/05-17:26:37.768108 25715             Options.max_subcompactions: 1
+2025/08/05-17:26:37.768111 25715             Options.avoid_flush_during_shutdown: 0
+2025/08/05-17:26:37.768114 25715           Options.writable_file_max_buffer_size: 1048576
+2025/08/05-17:26:37.768118 25715             Options.delayed_write_rate : 16777216
+2025/08/05-17:26:37.768121 25715             Options.max_total_wal_size: 0
+2025/08/05-17:26:37.768124 25715             Options.delete_obsolete_files_period_micros: 21600000000
+2025/08/05-17:26:37.768128 25715                   Options.stats_dump_period_sec: 600
+2025/08/05-17:26:37.768131 25715                 Options.stats_persist_period_sec: 600
+2025/08/05-17:26:37.768135 25715                 Options.stats_history_buffer_size: 1048576
+2025/08/05-17:26:37.768138 25715                          Options.max_open_files: -1
+2025/08/05-17:26:37.768142 25715                          Options.bytes_per_sync: 1048576
+2025/08/05-17:26:37.768145 25715                      Options.wal_bytes_per_sync: 0
+2025/08/05-17:26:37.768148 25715                   Options.strict_bytes_per_sync: 0
+2025/08/05-17:26:37.768156 25715       Options.compaction_readahead_size: 2097152
+2025/08/05-17:26:37.768160 25715                  Options.max_background_flushes: -1
+2025/08/05-17:26:37.768164 25715 Options.daily_offpeak_time_utc: 
+2025/08/05-17:26:37.768167 25715 Compression algorithms supported:
+2025/08/05-17:26:37.768171 25715 	kZSTD supported: 0
+2025/08/05-17:26:37.768175 25715 	kXpressCompression supported: 0
+2025/08/05-17:26:37.768178 25715 	kBZip2Compression supported: 0
+2025/08/05-17:26:37.768182 25715 	kLZ4Compression supported: 0
+2025/08/05-17:26:37.768273 25715 	kZlibCompression supported: 0
+2025/08/05-17:26:37.768279 25715 	kLZ4HCCompression supported: 0
+2025/08/05-17:26:37.768283 25715 	kSnappyCompression supported: 0
+2025/08/05-17:26:37.768294 25715 Fast CRC32 supported: Not supported on x86
+2025/08/05-17:26:37.768299 25715 DMutex implementation: pthread_mutex_t
+2025/08/05-17:26:37.768303 25715 Jemalloc supported: 0
+2025/08/05-17:26:37.769375 25715 [WARN] [db/db_impl/db_impl_open.cc:2632] DB::Open() failed: IO error: While lock file: /media/rajendra/HDD5/PROJECTS_2.0/Hyperswarm_Whale_Monitoring_System/feeds/db/LOCK: Resource temporarily unavailable
+2025/08/05-17:26:37.769641 25715 [db/db_impl/db_impl.cc:497] Shutdown: canceling all background work
+2025/08/05-17:26:37.769713 25715 [db/db_impl/db_impl.cc:711] Shutdown complete

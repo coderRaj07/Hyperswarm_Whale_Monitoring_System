@@ -36,8 +36,8 @@ A fully decentralized, multi-node USDT whale transfer tracker built using the **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourname/hyperswarm-whale-monitor.git
-cd hyperswarm-whale-monitor
+git clone https://github.com/coderRaj07/Hyperswarm_Whale_Monitoring_System.git
+cd Hyperswarm_Whale_Monitoring_System
 ```
 
 ### 2. Install Dependencies
